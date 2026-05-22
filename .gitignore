@@ -2,6 +2,24 @@
 node_modules/
 
 # Variables de entorno (¡MUY IMPORTANTE!)
+node_modules/
+dist/
+build/
+out/
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mov
+*.exe
+*.bin
+*.iso
+*.glb
+*.gltf
+*.fbx
+*.obj
+*.stl
+
 .env
 .env.local
 .env.*.local
